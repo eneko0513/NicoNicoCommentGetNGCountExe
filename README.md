@@ -23,6 +23,6 @@ https://github.com/eneko0513/NicoNicoCommentGetNGCountExe/archive/master.zip<br>
 3. ログインIDとパスワードはアプリを閉じるたびに**ローカル**に保存されるため、次回起動時は省略可  
 [![https://gyazo.com/9fa437316b70bd3cc1f2668378cdaa9b](https://i.gyazo.com/9fa437316b70bd3cc1f2668378cdaa9b.gif)](https://gyazo.com/9fa437316b70bd3cc1f2668378cdaa9b)
     
-
+**※コミュ動画とチャンネル動画は後ほど対応予定※**  
 
 要望・不具合報告はこちらまで(Twitter) -> @ene_KoH0513_CA
