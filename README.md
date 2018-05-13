@@ -1,10 +1,10 @@
 # NicoNicoCommentGetNGCountExe
-ニコニコ動画のNG数値などをグリッドに表示するツール  
+## ニコニコ動画のNG数値などをグリッドに表示するツール  
   
-ダウンロードはこちら  
+### ダウンロードはこちら  
 https://github.com/eneko0513/NicoNicoCommentGetNGCountExe/archive/master.zip<br>
     
-■使い方
+### ■使い方
 [![https://gyazo.com/bfcd3e312228a76ce0e00ea0e1a83948](https://i.gyazo.com/bfcd3e312228a76ce0e00ea0e1a83948.png)](https://gyazo.com/bfcd3e312228a76ce0e00ea0e1a83948)<br>
     
 1. ニコニコ動画のログインIDとパスワードとNG数値を確認したいリンクを入力して GetData ボタンを押下  
@@ -16,3 +16,5 @@ https://github.com/eneko0513/NicoNicoCommentGetNGCountExe/archive/master.zip<br>
     
 3. ログインIDとパスワードはアプリを閉じるたびに**ローカル**に保存されるため、次回起動時は省略可  
 [![https://gyazo.com/9fa437316b70bd3cc1f2668378cdaa9b](https://i.gyazo.com/9fa437316b70bd3cc1f2668378cdaa9b.gif)](https://gyazo.com/9fa437316b70bd3cc1f2668378cdaa9b)
+  
+作者：@ene_KoH0513_CA
