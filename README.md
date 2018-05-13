@@ -1,0 +1,2 @@
+# NicoNicoCommentGetNGCountExe
+ニコニコ動画のNG数値などをグリッドに表示するツール
