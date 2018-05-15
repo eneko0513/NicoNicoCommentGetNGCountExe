@@ -25,4 +25,4 @@ https://github.com/eneko0513/NicoNicoCommentGetNGCountExe/archive/master.zip<br>
       
 **コミュ動画とチャンネル動画対応済み**  
 
-要望・不具合報告はこちらまで(Twitter) -> @ene_KoH0513_CA
+要望・不具合報告はこちらまで(Twitter) -> [@ene_KoH0513_CA](https://twitter.com/ene_KoH0513_CA)
