@@ -11,7 +11,7 @@ https://github.com/eneko0513/NicoNicoCommentGetNGCountExe/archive/master.zip<br>
 4. [使い方]参照  
 
 ### ■使い方
-[![https://gyazo.com/bfcd3e312228a76ce0e00ea0e1a83948](https://i.gyazo.com/bfcd3e312228a76ce0e00ea0e1a83948.png)](https://gyazo.com/bfcd3e312228a76ce0e00ea0e1a83948)<br>
+[![https://gyazo.com/9759872ade059a86c74ca55123c6e3f9](https://i.gyazo.com/9759872ade059a86c74ca55123c6e3f9.png)](https://gyazo.com/9759872ade059a86c74ca55123c6e3f9)<br>
     
 1. ニコニコ動画のログインIDとパスワードとNG数値を確認したいリンクを入力して GetData ボタンを押下  
 [![https://gyazo.com/d139a853df48321fd93e2acde3efb6a4](https://i.gyazo.com/d139a853df48321fd93e2acde3efb6a4.png)](https://gyazo.com/d139a853df48321fd93e2acde3efb6a4)<br>
@@ -23,6 +23,6 @@ https://github.com/eneko0513/NicoNicoCommentGetNGCountExe/archive/master.zip<br>
 3. ログインIDとパスワードはアプリを閉じるたびに**ローカル**に保存されるため、次回起動時は省略可  
 [![https://gyazo.com/9fa437316b70bd3cc1f2668378cdaa9b](https://i.gyazo.com/9fa437316b70bd3cc1f2668378cdaa9b.gif)](https://gyazo.com/9fa437316b70bd3cc1f2668378cdaa9b)
       
-**※コミュ動画とチャンネル動画は後ほど対応予定※**  
+**コミュ動画とチャンネル動画対応済み※**  
 
 要望・不具合報告はこちらまで(Twitter) -> @ene_KoH0513_CA
