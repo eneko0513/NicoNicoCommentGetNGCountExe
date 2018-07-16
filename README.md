@@ -18,6 +18,7 @@ https://github.com/eneko0513/NicoNicoCommentGetNGCountExe/archive/master.zip<br>
     
 2. 表示からユーザーで絞り込みたい場合は、ユーザーID検索に値を入力して絞り込めます    
 **※セルを選択した状態で CTRL + C でコピーが出来ます**  
+**※ヘッダー列を押下すると並び替え（昇順/降順）が出来ます**  
 [![https://gyazo.com/cf1f44e07971331e65c7f719f0195e9d](https://i.gyazo.com/cf1f44e07971331e65c7f719f0195e9d.gif)](https://gyazo.com/cf1f44e07971331e65c7f719f0195e9d)<br>
     
 3. ログインIDとパスワードはアプリを閉じるたびに**ローカル**に保存されるため、次回起動時は省略可  
